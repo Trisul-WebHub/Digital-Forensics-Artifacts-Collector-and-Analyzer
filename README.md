@@ -1,4 +1,4 @@
-# 🛡 Digital Forensics Artifacts Collector and Analyzer
+# 🛡 Digital Forensics Artifacts Collector and Analyzer with AI
 
 A unified, multi-OS live forensics acquisition and automated analysis tool built in Python for **Windows, Linux, and macOS**. It streamlines evidence collection, log parsing, threat hunting, and reporting into a single interactive workflow.
 
